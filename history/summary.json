@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/skinthingcr.herokuapp.com",
     "slug": "skin-thing",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 81,
     "timeDay": 81,
     "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-03-22": 20
+      "2022-03-22": 35
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "https://expense-tracker-vert.vercel.app",
     "icon": "https://favicons.githubusercontent.com/expense-tracker-vert.vercel.app",
     "slug": "expense-tracker",
-    "status": "down",
-    "uptime": "93.67%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "93.67%",
-    "time": 90,
-    "timeDay": 90,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "status": "up",
+    "uptime": "53.15%",
+    "uptimeDay": "53.15%",
+    "uptimeWeek": "53.15%",
+    "uptimeMonth": "53.15%",
+    "uptimeYear": "53.15%",
+    "time": 84,
+    "timeDay": 84,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {
-      "2022-03-22": 1
+      "2022-03-22": 16
     }
   },
   {
@@ -243,18 +243,18 @@
     "icon": "https://favicons.githubusercontent.com/lyric-search-eosin.vercel.app",
     "slug": "song-lyric-browser",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
+    "uptime": "54.10%",
+    "uptimeDay": "54.10%",
+    "uptimeWeek": "54.10%",
+    "uptimeMonth": "54.10%",
+    "uptimeYear": "54.10%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 15
     }
   },
   {
@@ -263,36 +263,38 @@
     "icon": "https://favicons.githubusercontent.com/meal-finder-sandy.vercel.app",
     "slug": "meal-finder",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "55.50%",
+    "uptimeDay": "55.50%",
+    "uptimeWeek": "55.50%",
+    "uptimeMonth": "55.50%",
+    "uptimeYear": "55.50%",
     "time": 78,
     "timeDay": 78,
     "timeWeek": 78,
     "timeMonth": 78,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 15
+    }
   },
   {
     "name": "Exchange Rate Calculator",
     "url": "https://exchange-rate-tau.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/exchange-rate-tau.vercel.app",
     "slug": "exchange-rate-calculator",
-    "status": "down",
-    "uptime": "96.29%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.29%",
-    "uptimeYear": "96.29%",
-    "time": 43,
-    "timeDay": 43,
-    "timeWeek": 43,
-    "timeMonth": 43,
-    "timeYear": 43,
+    "status": "up",
+    "uptime": "53.67%",
+    "uptimeDay": "53.67%",
+    "uptimeWeek": "53.67%",
+    "uptimeMonth": "53.67%",
+    "uptimeYear": "53.67%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2022-03-22": 1
+      "2022-03-22": 15
     }
   },
   {
@@ -300,17 +302,17 @@
     "url": "https://web-apps-games.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/web-apps-games.vercel.app",
     "slug": "web-apps-and-games",
-    "status": "down",
-    "uptime": "2.96%",
-    "uptimeDay": "2.96%",
-    "uptimeWeek": "2.96%",
-    "uptimeMonth": "2.96%",
-    "uptimeYear": "2.96%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "46.23%",
+    "uptimeDay": "46.23%",
+    "uptimeWeek": "46.23%",
+    "uptimeMonth": "46.23%",
+    "uptimeYear": "46.23%",
+    "time": 57,
+    "timeDay": 57,
+    "timeWeek": 57,
+    "timeMonth": 57,
+    "timeYear": 57,
     "dailyMinutesDown": {
       "2022-03-22": 17
     }
