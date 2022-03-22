@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 138,
-    "timeWeek": 138,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/skinthingcr.herokuapp.com",
     "slug": "skin-thing",
     "status": "down",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
-    "time": 243,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-03-22": 3
+      "2022-03-22": 7
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 115,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 77,
+    "timeDay": 77,
+    "timeWeek": 77,
+    "timeMonth": 77,
+    "timeYear": 77,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 45,
+    "timeDay": 45,
+    "timeWeek": 45,
+    "timeMonth": 45,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2045,
-    "timeDay": 2045,
-    "timeWeek": 2045,
-    "timeMonth": 2045,
-    "timeYear": 2045,
+    "time": 1615,
+    "timeDay": 1615,
+    "timeWeek": 1615,
+    "timeMonth": 1615,
+    "timeYear": 1615,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4339,
-    "timeDay": 4339,
-    "timeWeek": 4339,
-    "timeMonth": 4339,
-    "timeYear": 4339,
+    "time": 2187,
+    "timeDay": 2187,
+    "timeWeek": 2187,
+    "timeMonth": 2187,
+    "timeYear": 2187,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 62,
-    "timeDay": 62,
-    "timeWeek": 62,
-    "timeMonth": 62,
-    "timeYear": 62,
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 95,
-    "timeWeek": 95,
-    "timeMonth": 95,
-    "timeYear": 95,
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 123,
+    "timeDay": 123,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -186,18 +186,20 @@
     "url": "https://book-freak-react.vercel.app",
     "icon": "https://favicons.githubusercontent.com/book-freak-react.vercel.app",
     "slug": "book-freak",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "73.87%",
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "73.87%",
+    "uptimeMonth": "73.87%",
+    "uptimeYear": "73.87%",
     "time": 72,
     "timeDay": 72,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 72,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 2
+    }
   },
   {
     "name": "NASA Explorer",
@@ -210,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 124,
+    "timeDay": 124,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -223,18 +225,18 @@
     "icon": "https://favicons.githubusercontent.com/expense-tracker-vert.vercel.app",
     "slug": "expense-tracker",
     "status": "down",
-    "uptime": "24.00%",
-    "uptimeDay": "24.00%",
-    "uptimeWeek": "24.00%",
-    "uptimeMonth": "24.00%",
-    "uptimeYear": "24.00%",
+    "uptime": "8.86%",
+    "uptimeDay": "8.86%",
+    "uptimeWeek": "8.86%",
+    "uptimeMonth": "8.86%",
+    "uptimeYear": "8.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-22": 2
+      "2022-03-22": 5
     }
   },
   {
@@ -248,11 +250,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   },
   {
@@ -260,18 +262,20 @@
     "url": "https://meal-finder-sandy.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/meal-finder-sandy.vercel.app",
     "slug": "meal-finder",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "82.04%",
+    "uptimeDay": "82.04%",
+    "uptimeWeek": "82.04%",
+    "uptimeMonth": "82.04%",
+    "uptimeYear": "82.04%",
     "time": 83,
     "timeDay": 83,
     "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 1
+    }
   },
   {
     "name": "Exchange Rate Calculator",
@@ -279,18 +283,18 @@
     "icon": "https://favicons.githubusercontent.com/exchange-rate-tau.vercel.app",
     "slug": "exchange-rate-calculator",
     "status": "down",
-    "uptime": "35.27%",
-    "uptimeDay": "35.27%",
-    "uptimeWeek": "35.27%",
-    "uptimeMonth": "35.27%",
-    "uptimeYear": "35.27%",
+    "uptime": "9.96%",
+    "uptimeDay": "9.96%",
+    "uptimeWeek": "9.96%",
+    "uptimeMonth": "9.96%",
+    "uptimeYear": "9.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-22": 1
+      "2022-03-22": 5
     }
   },
   {
@@ -299,18 +303,18 @@
     "icon": "https://favicons.githubusercontent.com/web-apps-games.vercel.app",
     "slug": "web-apps-and-games",
     "status": "down",
-    "uptime": "56.39%",
-    "uptimeDay": "56.39%",
-    "uptimeWeek": "56.39%",
-    "uptimeMonth": "56.39%",
-    "uptimeYear": "56.39%",
+    "uptime": "11.16%",
+    "uptimeDay": "11.16%",
+    "uptimeWeek": "11.16%",
+    "uptimeMonth": "11.16%",
+    "uptimeYear": "11.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 4
     }
   }
 ]
