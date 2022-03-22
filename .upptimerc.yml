@@ -1,7 +1,6 @@
 # Change these first
-owner: NigarumOvum # Your GitHub organization or username, where this repository lives
+owner: nigarumovum # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
 sites:
   - name: Neighbordev CR
     url: https://neighbordevcr.com
@@ -38,21 +37,13 @@ sites:
   - name: WebApps & Games
     url: https://web-apps-games.vercel.app/
     
-    
-
+assignees: # Users to assign downtime issues (optional)
+  - AnandChowdhary     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Neighbordev CR - Monitoring Sites
+  introTitle: ""
   introMessage: Thanks for visit...
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
