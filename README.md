@@ -1,6 +1,4 @@
-# [📈 Live Status](https://NigarumOvum.github.io/upptime): <!--live status--> **🟩 All systems operational**
-
-This repository contains the open-source uptime monitor and status page for [Brealy Fabian Padron Rodriguez](https://neighbordevcr.com), powered by [Upptime](https://github.com/upptime/upptime).
+# [📈 Live Status](https://tecnoelectrocomercioonline.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/NigarumOvum/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/NigarumOvum/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/NigarumOvum/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/NigarumOvum/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
