@@ -2,7 +2,7 @@
   {
     "name": "Tecnoelectro",
     "url": "https://tecnoelectrocomercioonline.com",
-    "icon": "https://favicons.githubusercontent.com/tecnoelectrocomercioonline.com",
+    "icon": "https://icons.duckduckgo.com/ip3/tecnoelectrocomercioonline.com.ico",
     "slug": "tecnoelectro",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 467,
-    "timeWeek": 371,
-    "timeMonth": 413,
-    "timeYear": 303,
+    "time": 304,
+    "timeDay": 481,
+    "timeWeek": 410,
+    "timeMonth": 411,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   }
 ]
