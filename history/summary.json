@@ -4,17 +4,17 @@
     "url": "https://tecnoelectrocomercioonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/tecnoelectrocomercioonline.com.ico",
     "slug": "tecnoelectro",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 203,
-    "timeWeek": 142,
-    "timeMonth": 175,
-    "timeYear": 221,
+    "timeDay": 137,
+    "timeWeek": 133,
+    "timeMonth": 171,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
